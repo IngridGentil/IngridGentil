@@ -10,10 +10,10 @@ Here are some ideas to get you started:
 - ⚡Estou em transição de carreira saindo de uma profissão totalmente distinta da que almejo
 -->
 
-<div align="center">
+<div>
   <a href="https://github.com/rafaballerini">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IngridGentil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridGentil&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IngridGentil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridGentil&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline-block"><br>
   <img align="center" alt="Ingrid-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
